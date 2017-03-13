@@ -1,0 +1,1836 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.75em; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+LABEL {
+	CURSOR: pointer
+}
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.fr {
+	FLOAT: right
+}
+.fl {
+	FLOAT: left
+}
+.clear {
+	CLEAR: both
+}
+.fwB {
+	FONT-WEIGHT: bold
+}
+.tCenter {
+	TEXT-ALIGN: center
+}
+.tRight {
+	TEXT-ALIGN: right
+}
+.tLeft {
+	TEXT-ALIGN: left
+}
+.gap1 {
+	MARGIN-TOP: 0.8em
+}
+.nowrap {
+	WHITE-SPACE: nowrap
+}
+.iePngFix {
+	BEHAVIOR: none
+}
+.zbxe_info {
+	BEHAVIOR: none; VERTICAL-ALIGN: middle
+}
+.inputTypeText {
+	BORDER-RIGHT: #d8d8d8 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #a6a6a6 1px solid; PADDING-LEFT: 0.3em; FONT-SIZE: 9pt; BACKGROUND: #ffffff; PADDING-BOTTOM: 0px; BORDER-LEFT: #a6a6a6 1px solid; PADDING-TOP: 0.2em; BORDER-BOTTOM: #d8d8d8 1px solid; HEIGHT: 1.4em
+}
+UNKNOWN {
+	FONT-SIZE: 9pt
+}
+.inputTypeText:hover {
+	BACKGROUND: #f4f4f4
+}
+.inputTypeText:unknown {
+	BACKGROUND: #f4f4f4
+}
+.inputTypeTextArea {
+	BORDER-RIGHT: #d8d8d8 1px solid; BORDER-TOP: #a6a6a6 1px solid; FONT-SIZE: 9pt; BACKGROUND: #ffffff; BORDER-LEFT: #a6a6a6 1px solid; BORDER-BOTTOM: #d8d8d8 1px solid; HEIGHT: 100px
+}
+UNKNOWN {
+	FONT-SIZE: 9pt
+}
+.w40 {
+	WIDTH: 40px
+}
+.w60 {
+	WIDTH: 60px
+}
+.w70 {
+	WIDTH: 70px
+}
+.w80 {
+	WIDTH: 80px
+}
+.w90 {
+	WIDTH: 90px
+}
+.w100 {
+	WIDTH: 100px
+}
+.w110 {
+	WIDTH: 110px
+}
+.w120 {
+	WIDTH: 120px
+}
+.w130 {
+	WIDTH: 130px
+}
+.w140 {
+	WIDTH: 140px
+}
+.w150 {
+	WIDTH: 150px
+}
+.w160 {
+	WIDTH: 160px
+}
+.w170 {
+	WIDTH: 170px
+}
+.w180 {
+	WIDTH: 180px
+}
+.w190 {
+	WIDTH: 190px
+}
+.w200 {
+	WIDTH: 200px
+}
+.w210 {
+	WIDTH: 210px
+}
+.w220 {
+	WIDTH: 220px
+}
+.w230 {
+	WIDTH: 230px
+}
+.w240 {
+	WIDTH: 240px
+}
+.w250 {
+	WIDTH: 250px
+}
+.w260 {
+	WIDTH: 260px
+}
+.w270 {
+	WIDTH: 270px
+}
+.w280 {
+	WIDTH: 280px
+}
+.w290 {
+	WIDTH: 290px
+}
+.w300 {
+	WIDTH: 300px
+}
+.w400 {
+	WIDTH: 400px
+}
+A.bold {
+	FONT-WEIGHT: bold
+}
+.editor_blue_text {
+	COLOR: #145ff9! important; TEXT-DECORATION: underline! important
+}
+.editor_blue_text A {
+	COLOR: #145ff9! important; TEXT-DECORATION: underline! important
+}
+.editor_red_text {
+	COLOR: #f42126! important; TEXT-DECORATION: underline! important
+}
+.editor_red_text A {
+	COLOR: #f42126! important; TEXT-DECORATION: underline! important
+}
+.editor_yellow_text {
+	COLOR: #c9bd00! important; TEXT-DECORATION: underline! important
+}
+.editor_yellow_text A {
+	COLOR: #c9bd00! important; TEXT-DECORATION: underline! important
+}
+.editor_green_text {
+	COLOR: #08830b! important; TEXT-DECORATION: underline! important
+}
+.editor_green_text A {
+	COLOR: #08830b! important; TEXT-DECORATION: underline! important
+}
+.folder_opener {
+	DISPLAY: block
+}
+.folder_closer {
+	DISPLAY: none
+}
+.folder_area {
+	DISPLAY: none
+}
+.xe_content {
+	LINE-HEIGHT: 1.6
+}
+.zbxe_widget_output {
+	DISPLAY: block; BACKGROUND: none
+}
+#waitingforserverresponse {
+	BORDER-RIGHT: #444444 2px solid; PADDING-RIGHT: 5px; BORDER-TOP: #444444 2px solid; PADDING-LEFT: 25px; FONT-WEIGHT: bold; Z-INDEX: 100; BACKGROUND: #ffffff no-repeat 5px 5px; LEFT: 40px; VISIBILITY: hidden; PADDING-BOTTOM: 5px; BORDER-LEFT: #444444 2px solid; COLOR: #444444; PADDING-TOP: 7px; BORDER-BOTTOM: #444444 2px solid; POSITION: absolute; TOP: 40px
+}
+#popup_menu_area {
+	BORDER-RIGHT: #eee 2px solid; PADDING-RIGHT: 0px; BORDER-TOP: #eee 2px solid; PADDING-LEFT: 0px; BACKGROUND: #fff; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #eee 2px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #eee 2px solid; POSITION: absolute; moz-border-radius: 5px; webkit-border-radius: 5px
+}
+#popup_menu_area  {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: normal; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#popup_menu_area UL {
+	BORDER-RIGHT: #ddd 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #ddd 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 5px; BORDER-LEFT: #ddd 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #ddd 1px solid; moz-border-radius: 5px; webkit-border-radius: 5px
+}
+#popup_menu_area LI {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: left center; PADDING-LEFT: 20px; MARGIN-BOTTOM: 3px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BACKGROUND-REPEAT: no-repeat; WHITE-SPACE: nowrap
+}
+#popup_menu_area LI A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+#popup_menu_area LI A:hover {
+	FONT-WEIGHT: bold; LETTER-SPACING: -1px
+}
+#popup_menu_area LI A:active {
+	FONT-WEIGHT: bold; LETTER-SPACING: -1px
+}
+#popup_menu_area LI A:unknown {
+	FONT-WEIGHT: bold; LETTER-SPACING: -1px
+}
+.faceOffManager {
+	RIGHT: 3px; POSITION: absolute; TOP: 3px; HEIGHT: 23px
+}
+A.button {
+	DISPLAY: inline-block; BACKGROUND: none; VERTICAL-ALIGN: top; CURSOR: pointer; WHITE-SPACE: nowrap; POSITION: relative; TEXT-DECORATION: none! important
+}
+A.button SPAN {
+	DISPLAY: inline-block; BACKGROUND: none; VERTICAL-ALIGN: top; CURSOR: pointer; WHITE-SPACE: nowrap; POSITION: relative; TEXT-DECORATION: none! important
+}
+A.button {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: left top; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; OVERFLOW: visible; PADDING-TOP: 0px
+}
+A.button SPAN {
+	PADDING-RIGHT: 10px; BACKGROUND-POSITION: right top; PADDING-LEFT: 8px; LEFT: 2px; PADDING-BOTTOM: 5px; FONT: 12px/12px Sans-serif; COLOR: #000; PADDING-TOP: 6px
+}
+UNKNOWN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 12px; FONT: 0px/23px Sans-serif; PADDING-TOP: 12px; TOP: 1px
+}
+UNKNOWN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; TOP: 0px
+}
+A.large {
+	BACKGROUND-POSITION: left -30px
+}
+A.large SPAN {
+	PADDING-RIGHT: 10px; BACKGROUND-POSITION: right -30px; PADDING-LEFT: 8px; PADDING-BOTTOM: 6px; FONT: 16px/16px Sans-serif; PADDING-TOP: 7px
+}
+UNKNOWN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 15px; FONT: 0px/29px Sans-serif; PADDING-TOP: 15px
+}
+UNKNOWN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+A.xLarge {
+	BACKGROUND-POSITION: left -65px
+}
+A.xLarge SPAN {
+	PADDING-RIGHT: 10px; BACKGROUND-POSITION: right -65px; PADDING-LEFT: 8px; PADDING-BOTTOM: 7px; FONT: 20px/20px Sans-serif; PADDING-TOP: 8px
+}
+UNKNOWN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 18px; FONT: 0px/35px Sans-serif; PADDING-TOP: 18px
+}
+UNKNOWN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+A.small {
+	BACKGROUND-POSITION: left -107px
+}
+A.small SPAN {
+	PADDING-RIGHT: 6px; BACKGROUND-POSITION: right -107px; PADDING-LEFT: 4px; PADDING-BOTTOM: 3px; FONT: 11px/11px Sans-serif; PADDING-TOP: 4px
+}
+UNKNOWN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 9px; FONT: 0px/18px Sans-serif; PADDING-TOP: 9px
+}
+UNKNOWN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+SPAN.button {
+	BORDER-TOP-WIDTH: 0px; DISPLAY: inline-block; BORDER-LEFT-WIDTH: 0px; BACKGROUND: none; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; FONT: 12px Sans-serif; VERTICAL-ALIGN: middle; WHITE-SPACE: nowrap; POSITION: relative; BORDER-RIGHT-WIDTH: 0px
+}
+SPAN.button BUTTON {
+	BORDER-TOP-WIDTH: 0px; DISPLAY: inline-block; BORDER-LEFT-WIDTH: 0px; BACKGROUND: none; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; FONT: 12px Sans-serif; VERTICAL-ALIGN: middle; WHITE-SPACE: nowrap; POSITION: relative; BORDER-RIGHT-WIDTH: 0px
+}
+SPAN.button INPUT {
+	BORDER-TOP-WIDTH: 0px; DISPLAY: inline-block; BORDER-LEFT-WIDTH: 0px; BACKGROUND: none; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; FONT: 12px Sans-serif; VERTICAL-ALIGN: middle; WHITE-SPACE: nowrap; POSITION: relative; BORDER-RIGHT-WIDTH: 0px
+}
+SPAN.button {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: left top; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+UNKNOWN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 11px; FONT: 0px/23px Sans-serif; PADDING-TOP: 11px
+}
+UNKNOWN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+SPAN.button BUTTON {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: right top; PADDING-LEFT: 3px; LEFT: 2px; PADDING-BOTTOM: 0px; CURSOR: pointer; LINE-HEIGHT: 24px; PADDING-TOP: 0px; TOP: 0px; HEIGHT: 23px
+}
+SPAN.button INPUT {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: right top; PADDING-LEFT: 3px; LEFT: 2px; PADDING-BOTTOM: 0px; CURSOR: pointer; LINE-HEIGHT: 24px; PADDING-TOP: 0px; TOP: 0px; HEIGHT: 23px
+}
+SPAN.large {
+	BACKGROUND-POSITION: left -30px
+}
+UNKNOWN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 14px; FONT: 0px/29px Sans-serif; PADDING-TOP: 14px
+}
+UNKNOWN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+SPAN.large BUTTON {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: right -30px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; FONT: 16px/30px Sans-serif; PADDING-TOP: 0px; TOP: -1px; HEIGHT: 30px
+}
+SPAN.large INPUT {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: right -30px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; FONT: 16px/30px Sans-serif; PADDING-TOP: 0px; TOP: -1px; HEIGHT: 30px
+}
+SPAN.xLarge {
+	BACKGROUND-POSITION: left -65px
+}
+UNKNOWN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 17px; FONT: 0px/35px Sans-serif; PADDING-TOP: 17px
+}
+UNKNOWN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+SPAN.xLarge BUTTON {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: right -65px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; FONT: 20px/36px Sans-serif; PADDING-TOP: 0px; HEIGHT: 35px
+}
+SPAN.xLarge INPUT {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: right -65px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; FONT: 20px/36px Sans-serif; PADDING-TOP: 0px; HEIGHT: 35px
+}
+SPAN.small {
+	BACKGROUND-POSITION: left -107px
+}
+UNKNOWN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 9px; FONT: 0px/18px Sans-serif; PADDING-TOP: 9px
+}
+UNKNOWN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+SPAN.small BUTTON {
+	PADDING-RIGHT: 3px; BACKGROUND-POSITION: right -107px; PADDING-LEFT: 2px; PADDING-BOTTOM: 0px; FONT: 11px/18px Sans-serif; PADDING-TOP: 0px; TOP: -1px; HEIGHT: 18px
+}
+SPAN.small INPUT {
+	PADDING-RIGHT: 3px; BACKGROUND-POSITION: right -107px; PADDING-LEFT: 2px; PADDING-BOTTOM: 0px; FONT: 11px/18px Sans-serif; PADDING-TOP: 0px; TOP: -1px; HEIGHT: 18px
+}
+UNKNOWN {
+	TOP: -1px
+}
+UNKNOWN {
+	TOP: 0px
+}
+A.strong  {
+	FONT-WEIGHT: bold! important
+}
+SPAN.strong  {
+	FONT-WEIGHT: bold! important
+}
+A.button .icon {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; VERTICAL-ALIGN: middle; POSITION: relative; BORDER-RIGHT-WIDTH: 0px
+}
+SPAN.button .icon {
+	LEFT: 10px; VERTICAL-ALIGN: middle; MARGIN-RIGHT: 8px; POSITION: relative
+}
+A.green {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+A.green SPAN {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+SPAN.green {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+SPAN.green BUTTON {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+SPAN.green INPUT {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+A.black {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+A.black SPAN {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+SPAN.black {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+SPAN.black BUTTON {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+SPAN.black INPUT {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+A.red {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+A.red SPAN {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+SPAN.red {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+SPAN.red BUTTON {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+SPAN.red INPUT {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+A.blue {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+A.blue SPAN {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+SPAN.blue {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+SPAN.blue BUTTON {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+SPAN.blue INPUT {
+	BACKGROUND-IMAGE: none; COLOR: #fff
+}
+A.button {
+	MARGIN-RIGHT: 2px
+}
+SPAN.button {
+	MARGIN-RIGHT: 2px
+}
+.buttonSet {
+	BORDER-TOP-WIDTH: 0px; DISPLAY: inline-block; BORDER-LEFT-WIDTH: 0px; BACKGROUND-IMAGE: none; BORDER-BOTTOM-WIDTH: 0px; VERTICAL-ALIGN: middle; WIDTH: 16px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 16px; BACKGROUND-COLOR: transparent; BORDER-RIGHT-WIDTH: 0px; TEXT-DECORATION: none
+}
+.buttonSet SPAN {
+	FONT-SIZE: 0px; Z-INDEX: -1; VISIBILITY: hidden; LINE-HEIGHT: 0
+}
+.buttonUp {
+	BACKGROUND-POSITION: 0px 0px
+}
+.buttonDown {
+	BACKGROUND-POSITION: 0px -16px
+}
+.buttonLeft {
+	BACKGROUND-POSITION: 0px -32px
+}
+.buttonRight {
+	BACKGROUND-POSITION: 0px -48px
+}
+.buttonInfo {
+	BACKGROUND-POSITION: 0px -64px
+}
+.buttonCopy {
+	BACKGROUND-POSITION: 0px -80px
+}
+.buttonSetting {
+	BACKGROUND-POSITION: 0px -96px
+}
+.buttonActive {
+	BACKGROUND-POSITION: 0px -112px
+}
+.buttonDisable {
+	BACKGROUND-POSITION: 0px -128px
+}
+.buttonDelete {
+	BACKGROUND-POSITION: 0px -144px
+}
+.buttonHomepage {
+	BACKGROUND-POSITION: 0px -160px
+}
+.buttonBlog {
+	BACKGROUND-POSITION: 0px -176px
+}
+.buttonCalendar {
+	BACKGROUND-POSITION: 0px -192px
+}
+.buttonLayoutEditor {
+	BACKGROUND-POSITION: 0px -208px
+}
+.buttonAddWidget {
+	BACKGROUND-POSITION: 0px -224px
+}
+.buttonAddContent {
+	BACKGROUND-POSITION: 0px -240px
+}
+UL {
+	MARGIN-LEFT: 30px
+}
+NL {
+	MARGIN-LEFT: 5px
+}
+OL {
+	MARGIN-LEFT: 30px
+}
+DD {
+	MARGIN-LEFT: 25px
+}
+#wikiBody {
+	CLEAR: both; PADDING-RIGHT: 20px; DISPLAY: block; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; MARGIN: 5px auto; OVERFLOW: hidden; COLOR: black; PADDING-TOP: 0px
+}
+#wikiBody IMG {
+	BORDER-TOP-WIDTH: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BORDER-BOTTOM-WIDTH: 0px! important; MARGIN-LEFT: 1px; VERTICAL-ALIGN: -3px; MARGIN-RIGHT: 2px; BORDER-RIGHT-WIDTH: 0px! important
+}
+#wikiBody IMG.url {
+	DISPLAY: none
+}
+#wikiBody A {
+	COLOR: #000080; TEXT-DECORATION: none
+}
+#wikiBody A:hover {
+	COLOR: #cc3300; BORDER-BOTTOM: #c30 1px solid
+}
+#wikiBody A.externalLink {
+	PADDING-RIGHT: 14px; BACKGROUND: none; MARGIN-RIGHT: 2px
+}
+#wikiBody A.image_link {
+	BORDER-TOP-WIDTH: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BORDER-BOTTOM-WIDTH: 0px! important; VERTICAL-ALIGN: middle; BORDER-RIGHT-WIDTH: 0px! important
+}
+#wikiBody A.interwiki {
+	BORDER-TOP-WIDTH: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BORDER-BOTTOM-WIDTH: 0px! important; VERTICAL-ALIGN: middle; BORDER-RIGHT-WIDTH: 0px! important
+}
+#wikiBody A.image_link:hover {
+	BORDER-TOP-WIDTH: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BORDER-BOTTOM-WIDTH: 0px! important; VERTICAL-ALIGN: middle; BORDER-RIGHT-WIDTH: 0px! important
+}
+#wikiBody A.interwiki:hover {
+	BORDER-TOP-WIDTH: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BORDER-BOTTOM-WIDTH: 0px! important; VERTICAL-ALIGN: middle; BORDER-RIGHT-WIDTH: 0px! important
+}
+#wikiBody IMG.icon {
+	VERTICAL-ALIGN: middle
+}
+#wikiBodyTravel {
+	CLEAR: both; PADDING-RIGHT: 20px; DISPLAY: block; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; MARGIN: 5px auto; OVERFLOW: hidden; COLOR: black; PADDING-TOP: 0px
+}
+#wikiBodyTravel IMG {
+	BORDER-TOP-WIDTH: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BORDER-BOTTOM-WIDTH: 0px! important; MARGIN-LEFT: 0px; VERTICAL-ALIGN: -3px; MARGIN-RIGHT: 0px; BORDER-RIGHT-WIDTH: 0px! important
+}
+#wikiBodyTravel IMG.url {
+	DISPLAY: none
+}
+#wikiBodyTravel A {
+	COLOR: #000080; TEXT-DECORATION: none
+}
+#wikiBodyTravel A:hover {
+	COLOR: #cc3300
+}
+#wikiBodyTravel A.externalLink {
+	PADDING-RIGHT: 14px; BACKGROUND: none; MARGIN-RIGHT: 2px
+}
+#wikiBodyTravel A.image_link {
+	BORDER-TOP-WIDTH: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BORDER-BOTTOM-WIDTH: 0px! important; VERTICAL-ALIGN: middle; BORDER-RIGHT-WIDTH: 0px! important
+}
+#wikiBodyTravel A.interwiki {
+	BORDER-TOP-WIDTH: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BORDER-BOTTOM-WIDTH: 0px! important; VERTICAL-ALIGN: middle; BORDER-RIGHT-WIDTH: 0px! important
+}
+#wikiBodyTravel A.image_link:hover {
+	BORDER-TOP-WIDTH: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BORDER-BOTTOM-WIDTH: 0px! important; VERTICAL-ALIGN: middle; BORDER-RIGHT-WIDTH: 0px! important
+}
+#wikiBodyTravel A.interwiki:hover {
+	BORDER-TOP-WIDTH: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BORDER-BOTTOM-WIDTH: 0px! important; VERTICAL-ALIGN: middle; BORDER-RIGHT-WIDTH: 0px! important
+}
+#wikiBodyTravel IMG.icon {
+	VERTICAL-ALIGN: middle
+}
+HR {
+	DISPLAY: none
+}
+.separator {
+	MARGIN-TOP: 3px; MARGIN-BOTTOM: 10px; BORDER-BOTTOM: #ccc 1px dashed
+}
+.wikiHr {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM: #ccc 1px dashed; BORDER-RIGHT-WIDTH: 0px
+}
+#wikiBody OL {
+	MARGIN-TOP: 8px; MARGIN-BOTTOM: 8px
+}
+#wikiBody UL {
+	MARGIN-TOP: 8px; MARGIN-BOTTOM: 8px
+}
+#wikiBody UL {
+	LIST-STYLE-TYPE: disc! important
+}
+#wikiBody NL {
+	MARGIN-TOP: 4px; MARGIN-BOTTOM: 4px; TEXT-ALIGN: left
+}
+#wikiBodyTravel OL {
+	MARGIN-TOP: 8px; MARGIN-BOTTOM: 8px
+}
+#wikiBodyTravel UL {
+	MARGIN-TOP: 8px; MARGIN-BOTTOM: 8px
+}
+#wikiBodyTravel UL {
+	LIST-STYLE-TYPE: disc! important
+}
+#wikiBodyTravel NL {
+	MARGIN-TOP: 4px; MARGIN-BOTTOM: 4px; TEXT-ALIGN: left
+}
+#wikiHeader {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 5px; COLOR: #000000; PADDING-TOP: 0px; POSITION: relative;
+}
+#wikiHeaderMenu {
+	PADDING-LEFT: 10px; CLEAR: both; BORDER-TOP: #ccc 1px solid; DISPLAY: block; MARGIN: 7px auto 0px; WIDTH: 800px; BORDER-BOTTOM: #ccc 1px solid; HEIGHT: 44px; BACKGROUND-COLOR: #64a5ff
+}
+#wikiTitle {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 2em; BACKGROUND: none; FLOAT: left; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 0px; WIDTH: 100%; COLOR: #333; PADDING-TOP: 0px
+}
+#wikiTitle A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+#wikiTitle A:active {
+	COLOR: #000; TEXT-DECORATION: none
+}
+#wikiTitle A:visited {
+	COLOR: #000; TEXT-DECORATION: none
+}
+#wikiIcon {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; RIGHT: 5px; PADDING-BOTTOM: 7px; VERTICAL-ALIGN: middle; PADDING-TOP: 7px; POSITION: absolute; TOP: 1px; TEXT-ALIGN: right
+}
+ HTML #wikiIcon {
+	VISIBILITY: visible
+}
+#wikiTitle:hover #wikiIcon {
+	VISIBILITY: visible
+}
+#wikiBody H1 {
+	PADDING-LEFT: 2px; FONT-SIZE: 12px; MARGIN: 10px 0px; BORDER-BOTTOM: #202fff 2px solid
+}
+#wikiBody H2 {
+	PADDING-LEFT: 2px; FONT-SIZE: 12px; MARGIN: 10px 0px; BORDER-BOTTOM: #ccc 1px dashed
+}
+#wikiBody H3 {
+	PADDING-LEFT: 2px; FONT-SIZE: 12px; MARGIN: 10px 0px; BORDER-BOTTOM: #ccc 1px dashed
+}
+#wikiBody H4 {
+	PADDING-LEFT: 2px; FONT-SIZE: 12px; MARGIN: 10px 0px; BORDER-BOTTOM: #ccc 1px dashed
+}
+#wikiBody H5 {
+	PADDING-LEFT: 2px; FONT-SIZE: 12px; MARGIN: 10px 0px; BORDER-BOTTOM: #ccc 1px dashed
+}
+#wikiBody H1 A {
+	TEXT-DECORATION: none
+}
+#wikiBody H2 A {
+	TEXT-DECORATION: none
+}
+#wikiBody H3 A {
+	TEXT-DECORATION: none
+}
+#wikiBody H4 A {
+	TEXT-DECORATION: none
+}
+#wikiBody H5 A {
+	TEXT-DECORATION: none
+}
+#wikiBody H2 {
+	PADDING-TOP: 10px
+}
+#wikiBody H1 {
+	PADDING-TOP: 10px
+}
+#wikiBody H1 {
+	FONT-SIZE: 1.4em
+}
+#wikiBody H2 {
+	FONT-SIZE: 1.4em
+}
+#wikiBody H3 {
+	FONT-SIZE: 1.3em; MARGIN-LEFT: 0.2em
+}
+#wikiBody H4 {
+	FONT-SIZE: 1.2em; MARGIN-LEFT: 0.4em
+}
+#wikiBody H5 {
+	MARGIN-LEFT: 0.4em
+}
+#wikiBodyTravel H1 {
+	PADDING-LEFT: 2px; FONT-SIZE: 12px; MARGIN: 10px 0px; BORDER-BOTTOM: #E8A902 2px solid
+}
+#wikiBodyTravel H1 IMG {
+	PADDING-LEFT: 0px; MARGIN: 4px 0px
+}
+#wikiBodyTravel H2 {
+	PADDING-LEFT: 2px; FONT-SIZE: 12px; MARGIN: 10px 0px; BORDER-BOTTOM: #ccc 1px dashed
+}
+#wikiBodyTravel H3 {
+	PADDING-LEFT: 2px; FONT-SIZE: 12px; MARGIN: 10px 0px; BORDER-BOTTOM: #ccc 1px dashed
+}
+#wikiBodyTravel H4 {
+	PADDING-LEFT: 2px; FONT-SIZE: 12px; MARGIN: 10px 0px; BORDER-BOTTOM: #ccc 1px dashed
+}
+#wikiBodyTravel H5 {
+	PADDING-LEFT: 2px; FONT-SIZE: 12px; MARGIN: 10px 0px; BORDER-BOTTOM: #ccc 1px dashed
+}
+#wikiBodyTravel H1 A {
+	TEXT-DECORATION: none
+}
+#wikiBodyTravel H2 A {
+	TEXT-DECORATION: none
+}
+#wikiBodyTravel H3 A {
+	TEXT-DECORATION: none
+}
+#wikiBodyTravel H4 A {
+	TEXT-DECORATION: none
+}
+#wikiBodyTravel H5 A {
+	TEXT-DECORATION: none
+}
+#wikiBodyTravel H2 {
+	PADDING-TOP: 10px
+}
+#wikiBodyTravel H1 {
+	PADDING-TOP: 10px
+}
+#wikiBodyTravel H1 {
+	FONT-SIZE: 1.4em
+}
+#wikiBodyTravel H2 {
+	FONT-SIZE: 1.4em
+}
+#wikiBodyTravel H3 {
+	FONT-SIZE: 1.3em; MARGIN-LEFT: 0.2em
+}
+#wikiBodyTravel H4 {
+	FONT-SIZE: 1.2em; MARGIN-LEFT: 0.4em
+}
+#wikiBodyTravel H5 {
+	MARGIN-LEFT: 0.4em
+}
+ HTML A.perma:visited {
+	COLOR: #333
+}
+#wikiBody A.perma {
+	DISPLAY: none
+}
+#wikiBodyTravel A.perma {
+	DISPLAY: none
+}
+TEXTAREA.wiki {
+	BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #aaa 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; MARGIN: 10px auto; FONT: 12px/1.8 "Crizin Code", "±¼¸²Ã¼", Verdana, sans-serif; OVERFLOW: auto! important; BORDER-LEFT: #aaa 1px solid; WIDTH: 750px! important; PADDING-TOP: 5px; BORDER-BOTTOM: #aaa 1px solid
+}
+#wikiBody INPUT {
+	FONT-SIZE: 12px; LINE-HEIGHT: 1.3
+}
+#wikiBodyTravel INPUT {
+	FONT-SIZE: 12px; LINE-HEIGHT: 1.3
+}
+UNKNOWN {
+	PADDING-RIGHT: 20px! important; PADDING-LEFT: 20px! important; PADDING-BOTTOM: 2px! important; PADDING-TOP: 2px! important
+}
+UNKNOWN {
+	BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 3px! important; BORDER-TOP: #aaa 1px solid; PADDING-LEFT: 3px! important; PADDING-BOTTOM: 3px! important; BORDER-LEFT: #aaa 1px solid; PADDING-TOP: 3px! important; BORDER-BOTTOM: #aaa 1px solid
+}
+UNKNOWN {
+	MARGIN-RIGHT: 5px
+}
+#commentForm {
+	PADDING-RIGHT: 10px; MARGIN-TOP: 2em; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; BACKGROUND-COLOR: #eee
+}
+#commentForm FORM {
+	MARGIN: 0px
+}
+.wikiHints {
+	PADDING-RIGHT: 10px; MARGIN-TOP: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; BACKGROUND-COLOR: #c0d3d2
+}
+#header {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; MARGIN: 0px auto; WIDTH: 800px; PADDING-TOP: 0px; HEIGHT: 88px
+}
+#header H1 {
+	FLOAT: left; MARGIN: 0px; COLOR: #ffffff
+}
+#header P {
+	FLOAT: left; MARGIN: 0px; COLOR: #ffffff
+}
+#header H1 {
+	FONT: bold 2em/1.8 Verdana, sans-serif
+}
+#header_menu {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; TEXT-ALIGN: right
+}
+#goForm {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#goForm INPUT.goto {
+	BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #aaa 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 3px; FONT: 12px/1.8 Tahoma, sans-serif; BORDER-LEFT: #aaa 1px solid; WIDTH: 160px! important; PADDING-TOP: 3px; BORDER-BOTTOM: #aaa 1px solid
+}
+#goForm INPUT.submitBtn {
+	DISPLAY: none; FONT-WEIGHT: bold; WIDTH: 69px; CURSOR: pointer; COLOR: black; HEIGHT: 23px
+}
+DIV.message {
+	CLEAR: both; PADDING-RIGHT: 5px; BORDER-TOP: #e00 1px solid; DISPLAY: block; PADDING-LEFT: 55px; MIN-HEIGHT: 40px; BACKGROUND: none #fff1b9 10px 10px; PADDING-BOTTOM: 5px; MARGIN: 10px 10px 15px; VERTICAL-ALIGN: middle; COLOR: #440000; PADDING-TOP: 5px; BORDER-BOTTOM: #e00 1px solid; HEIGHT: 40px
+}
+DIV.message H3 {
+	BORDER-TOP-WIDTH: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BORDER-BOTTOM-WIDTH: 0px! important; MARGIN: 0px; FONT-FAMILY: "Trebuchet MS", sans-serif; BORDER-RIGHT-WIDTH: 0px! important
+}
+#wikiContent {
+	MARGIN: 5px auto
+}
+DIV.sectionEdit A:link {
+	COLOR: #3d9cb4
+}
+DIV.sectionEdit {
+	MARGIN-TOP: 7px; DISPLAY: inline; FLOAT: right; VISIBILITY: hidden; MARGIN-RIGHT: 5px
+}
+#wikiContent DIV:hover .sectionEdit {
+	VISIBILITY: visible
+}
+ HTML DIV.sectionEdit {
+	VISIBILITY: visible
+}
+DIV.sectionEdit:hover {
+	VISIBILITY: visible
+}
+#wikiPage {
+	PADDING-BOTTOM: 10px; MARGIN-LEFT: 13px; MARGIN-RIGHT: 15px
+}
+#wikiHeadPage {
+	PADDING-BOTTOM: 10px; MARGIN-LEFT: 13px; MARGIN-RIGHT: 15px
+}
+#wikiHeadPage {
+	PADDING-TOP: 10px
+}
+#wikiPage {
+	MIN-HEIGHT: 400px; PADDING-TOP: 0px; HEIGHT: 400px
+}
+#wikiBanner {
+	PADDING-TOP: 5px; FONT-FAMILY: "Trebuchet MS",Georgia,sans-serif; TEXT-ALIGN: center
+}
+TT.wiki {
+	FONT-SIZE: 1em; FONT-FAMILY: Monotype, Lucida Console, lucida, monospace
+}
+TT.foot {
+	FONT-SIZE: 11px; VERTICAL-ALIGN: super; FONT-FAMILY: Tahoma,lucida,monospace
+}
+TT.sister {
+	FONT-SIZE: 11px; VERTICAL-ALIGN: super; FONT-FAMILY: Tahoma,lucida,monospace; TEXT-DECORATION: none
+}
+PRE {
+	OVERFLOW: auto
+}
+PRE.wiki {
+	BORDER-RIGHT: #cccc99 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #cccc99 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #cccc99 10px solid; COLOR: black; PADDING-TOP: 10px; BORDER-BOTTOM: #cccc99 1px solid; FONT-FAMILY: "Crizin Code", "±¼¸²Ã¼", GulimChe, "Courier New", monospace! important; BACKGROUND-COLOR: #eee
+}
+PRE.console {
+	BORDER-RIGHT: #808080 2px inset; PADDING-RIGHT: 0.25em; BORDER-TOP: #808080 2px inset; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0.25em; BORDER-LEFT: #808080 2px inset; COLOR: #e0e0e0; PADDING-TOP: 0.25em; BORDER-BOTTOM: #808080 2px inset; BACKGROUND-COLOR: #000000
+}
+PRE.quote {
+	PADDING-LEFT: 6px; FONT-SIZE: 14px; PADDING-TOP: 6px; FONT-FAMILY: Georgia,monotype,lucida,monospace; BACKGROUND-COLOR: #e9ecef
+}
+PRE.wikiSyntax {
+	BORDER-RIGHT: #cccc99 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #cccc99 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #cccc99 10px solid; COLOR: black! important; PADDING-TOP: 10px; BORDER-BOTTOM: #cccc99 1px solid; FONT-FAMILY: "Bitstream Vera Sans Mono", Courier, GulimChe, monospace! important; BACKGROUND-COLOR: #f5f5f5! important
+}
+TABLE.wiki {
+	BORDER-RIGHT: #aaa 1px solid; MARGIN: 5px 5px 5px 15px; BORDER-BOTTOM: #aaa 1px solid
+}
+TABLE.wiki TR {
+	BACKGROUND-COLOR: #fff
+}
+TABLE.wiki TD {
+	PADDING-RIGHT: 10px; BORDER-TOP: #aaa 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 5px; BORDER-LEFT: #aaa 1px solid; PADDING-TOP: 5px
+}
+TABLE.wiki TD.center {
+	TEXT-ALIGN: center
+}
+TABLE.wiki TD.right {
+	TEXT-ALIGN: right
+}
+TABLE.wiki TD.left {
+	TEXT-ALIGN: left
+}
+TABLE.transcript {
+	BORDER-RIGHT: #aaa 1px solid; MARGIN: 5px 5px 5px 15px; BORDER-BOTTOM: #aaa 1px solid
+}
+TABLE.transcript TR {
+	BACKGROUND-COLOR: #fff
+}
+TABLE.transcript TD {
+	PADDING-RIGHT: 10px; BORDER-TOP: #aaa 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; BORDER-LEFT: #aaa 1px solid; PADDING-TOP: 0px
+}
+TABLE.transcript TD.center {
+	TEXT-ALIGN: center
+}
+TABLE.transcript TD.right {
+	TEXT-ALIGN: right
+}
+TABLE.transcript TD.left {
+	TEXT-ALIGN: left
+}
+TABLE.info TH {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+TABLE.info TD {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+TH.info {
+	BACKGROUND-COLOR: #e2ece2
+}
+TD.info {
+	BACKGROUND-COLOR: #e2ece2
+}
+PRE.errlog {
+	BORDER-TOP-WIDTH: 2px; PADDING-LEFT: 55px; BORDER-LEFT-WIDTH: 0px; MIN-HEIGHT: 40px; BACKGROUND: none #ffe784 no-repeat 10px 10px; BORDER-BOTTOM-WIDTH: 2px; HEIGHT: 40px; BORDER-RIGHT-WIDTH: 0px
+}
+.highlight {
+	BACKGROUND-COLOR: #ffff40
+}
+#wikiGoto {
+	FONT-SIZE: 11px; FONT-FAMILY: Tahoma,Lucida,sans-serif
+}
+UNKNOWN {
+	FONT-SIZE: 11px; WIDTH: 100px; FONT-FAMILY: Tahoma,Lucida,sans-serif
+}
+UNKNOWN {
+	FONT-SIZE: 10px; WIDTH: 23px; FONT-FAMILY: Tahoma,Lucida,sans-serif
+}
+UNKNOWN {
+	FONT-SIZE: 10px; WIDTH: 25px; FONT-FAMILY: Tahoma,Lucida,sans-serif
+}
+TABLE.closure {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; BACKGROUND-COLOR: #e9ecef
+}
+TD.closure {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; BACKGROUND-COLOR: #e9ecef
+}
+#wikiTrailer {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; FONT-FAMILY: "Trebuchet MS",Georgia,sans-serif
+}
+.wikiNavigation {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 5px; BACKGROUND-COLOR: #e0e0e0
+}
+#wikiOrigin {
+	PADDING-LEFT: 20px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; BACKGROUND-COLOR: #fafafa
+}
+#wikiMenuBar {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 5px; PADDING-TOP: 1px; HEIGHT: 42px
+}
+#pMenuLeft {
+	Z-INDEX: 2; BACKGROUND: none
+}
+#pMenuRight {
+	Z-INDEX: 2; BACKGROUND: none
+}
+#wikiMenu {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#wikiMenu UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 2px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none; HEIGHT: 44px
+}
+#wikiMenu NL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 2px; MARGIN: 10px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none; HEIGHT: 44px
+}
+#wikiMenu LI.first {
+	MARGIN-LEFT: 5px
+}
+#wikiMenu LI {
+	PADDING-RIGHT: 10px; DISPLAY: inline; PADDING-LEFT: 10px; BACKGROUND: none; FLOAT: left; PADDING-BOTTOM: 9px; MARGIN: 0px; VERTICAL-ALIGN: top; PADDING-TOP: 10px; POSITION: relative
+}
+#wikiMenu LI:hover {
+	BACKGROUND: none; TEXT-DECORATION: none
+}
+#wikiMenu LI.current:hover {
+	BACKGROUND: none; TEXT-DECORATION: none
+}
+#wikiMenu LI.current {
+	BACKGROUND: none; TEXT-DECORATION: none
+}
+#wikiMenu LI:hover A {
+	COLOR: #ffffff
+}
+#wikiMenu LI A:active {
+	TEXT-DECORATION: none
+}
+#wikiMenu A {
+	MARGIN: 0px; COLOR: white; TEXT-DECORATION: none
+}
+#wikiMenu A:visited {
+	MARGIN: 0px; COLOR: white; TEXT-DECORATION: none
+}
+#wikiMenu A:link {
+	MARGIN: 0px; COLOR: white; TEXT-DECORATION: none
+}
+#wikiMenu A {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: white; FONT-FAMILY: Tahoma,Verdana,sans-serif; TEXT-DECORATION: none
+}
+#wikiFooter {
+	CLEAR: both; BORDER-TOP: #ccc 1px solid; DISPLAY: block; MARGIN: 20px auto 0px; WIDTH: 800px; BORDER-BOTTOM: #ccc 1px solid; HEIGHT: 44px; BACKGROUND-COLOR: #eee
+}
+#wikiAction {
+	FLOAT: left; MARGIN: 10px; WIDTH: 400px
+}
+#wikiAction UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; WHITE-SPACE: nowrap; LIST-STYLE-TYPE: none
+}
+#wikiAction NL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; WHITE-SPACE: nowrap; LIST-STYLE-TYPE: none
+}
+#wikiAction LI {
+	PADDING-RIGHT: 15px; DISPLAY: inline
+}
+#wikiAction A {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+#wikiAction A:hover {
+	COLOR: #cc3300; BORDER-BOTTOM: #c30 1px solid
+}
+#wikiTime {
+	FLOAT: right; MARGIN: 12px; FONT: 11px/1.8 Verdana, Tahoma, sans-serif; WIDTH: 300px; COLOR: #fff; TEXT-ALIGN: right
+}
+#wikiTime2 {
+	FLOAT: right; MARGIN: 0px; FONT: 4px/1.5 Verdana, Tahoma, sans-serif; WIDTH: 10px; COLOR: #666; TEXT-ALIGN: right
+}
+#wikiExtra {
+	CLEAR: both; MARGIN-TOP: 2em
+}
+#wikiSister {
+	
+}
+#wikiPreview {
+	BORDER-RIGHT: #202fff 2px solid; PADDING-RIGHT: 1em; BORDER-TOP: #202fff 2px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 5px; MARGIN: 5px; BORDER-LEFT: #a0a0a0 2px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #a0a0a0 2px solid
+}
+DIV.indent {
+	PADDING-LEFT: 22px
+}
+DIV.quote {
+	BACKGROUND: #202fff no-repeat; PADDING-TOP: 3px
+}
+DIV.diff-added {
+	COLOR: black; BACKGROUND-COLOR: #202fff
+}
+DIV.diff-removed {
+	COLOR: black; BACKGROUND-COLOR: #202fff
+}
+DIV.diff-sep {
+	COLOR: #202fff; BACKGROUND-COLOR: #202fff
+}
+SPAN.diff-added {
+	COLOR: blue
+}
+INS.diff-added {
+	COLOR: blue
+}
+SPAN.diff-removed {
+	COLOR: red
+}
+DEL.diff-removed {
+	COLOR: red
+}
+DIV.diff-removed {
+	BACKGROUND-COLOR: #eebfbb
+}
+DEL.diff-removed {
+	BORDER-RIGHT: #f0f0f0 2px solid; BORDER-LEFT: #f0f0f0 2px solid; COLOR: #999999; BACKGROUND-COLOR: white! important; TEXT-DECORATION: line-through
+}
+INS.diff-added {
+	BACKGROUND-COLOR: #ccffcc
+}
+DIV.hint {
+	FONT-SIZE: 10px; COLOR: white; BACKGROUND-COLOR: #369
+}
+A.purple {
+	FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+A.purple {
+	FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+DIV.blog {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0em; WIDTH: 90%; PADDING-TOP: 0em
+}
+SPAN.blog-user {
+	FONT-SIZE: 10px
+}
+DIV.blog-title {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px
+}
+DIV.blog-comments {
+	
+}
+DIV.blog-comment {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 2em; MARGIN-BOTTOM: 5px; PADDING-BOTTOM: 1em; BORDER-LEFT: #e4f1f4 4px solid; PADDING-TOP: 1em; BACKGROUND-COLOR: #f0f6f8
+}
+DIV.blog-comments .separator {
+	DISPLAY: none
+}
+DIV.blog-action {
+	FONT-SIZE: 9px; TEXT-ALIGN: right
+}
+DIV.blog-date {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; PADDING-BOTTOM: 5px
+}
+SPAN.blog-user {
+	FONT-SIZE: 10px
+}
+DIV.blog-summary {
+	MARGIN-BOTTOM: 10px
+}
+DIV.trackback-hint {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; FONT-SIZE: 10px; PADDING-BOTTOM: 1em; PADDING-TOP: 1em; BACKGROUND-COLOR: #eee
+}
+TD.day {
+	BACKGROUND: #e0e0e0; TEXT-ALIGN: center
+}
+TD.today {
+	BACKGROUND: #ffffff; TEXT-ALIGN: center
+}
+SPAN.blogged {
+	FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.Calendar A {
+	COLOR: black; TEXT-DECORATION: none
+}
+CAPTION.month {
+	FONT-WEIGHT: bold; WHITE-SPACE: nowrap
+}
+.wikiGroup {
+	PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: x-small; COLOR: #0686db; FONT-FAMILY: Tahoma,Lucida,sans-serif
+}
+#wikiLogin {
+	FONT-WEIGHT: bold; FONT-SIZE: x-small; FONT-FAMILY: Tahoma,sans-serif
+}
+#wikiLogin INPUT {
+	FONT-WEIGHT: normal; FONT-SIZE: x-small; FONT-FAMILY: Verdana,sans-serif
+}
+DIV.wikiPre I {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+DIV.wikiPre B {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+IMG.imgLeft {
+	MARGIN-BOTTOM: 5px; MARGIN-RIGHT: 15px
+}
+IMG.imgRight {
+	MARGIN-BOTTOM: 5px; MARGIN-LEFT: 10px
+}
+SPAN.externalLink {
+	DISPLAY: none
+}
+SPAN.lineNumber {
+	COLOR: #c0c0c0
+}
+UNKNOWN {
+	FONT-FAMILY: CMSY10, CMEX10, Symbol, Times
+}
+#container {
+	MARGIN: 0px auto
+}
+#mycontent {
+	PADDING-RIGHT: 5px
+}
+#wikiSideMenu {
+	PADDING-RIGHT: 5px; DISPLAY: inline; PADDING-LEFT: 5px; FLOAT: right; PADDING-BOTTOM: 5px; BORDER-LEFT: #e0e0e0 1px dotted; WIDTH: 140px; PADDING-TOP: 5px; HEIGHT: 100%
+}
+.randomQuote {
+	PADDING-RIGHT: 0px; BORDER-TOP: #e0e0e0 1px solid; PADDING-LEFT: 0px; FONT-WEIGHT: bold; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: #e0e0e0 1px solid; FONT-FAMILY: Verdana,Tahoma,sans-serif
+}
+.randomPage {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; PADDING-TOP: 0px; FONT-FAMILY: Trebuchet MS,sans-serif
+}
+.calendar {
+	FONT-SIZE: 11px; FONT-FAMILY: Trebuchet MS,sans-serif
+}
+#topIcon {
+	PADDING-RIGHT: 20px; TEXT-ALIGN: right
+}
+.rc-title {
+	MARGIN-TOP: 10px
+}
+.rc-date {
+	
+}
+#toc {
+	PADDING-RIGHT: 20px; DISPLAY: block; PADDING-LEFT: 20px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; BACKGROUND-COLOR: #e9e9dd
+}
+#toctitle H2 {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 12px! important; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px 0px 5px 10px; BORDER-RIGHT-WIDTH: 0px
+}
+#toc IMG {
+	VERTICAL-ALIGN: middle
+}
+.cloudView {
+	DISPLAY: inline
+}
+.cloudView UL {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.cloudView UL LI {
+	DISPLAY: inline
+}
+.cloudView NL {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.cloudView NL LI {
+	DISPLAY: inline
+}
+A.nonexistent {
+	FONT-WEIGHT: bold; COLOR: red! important
+}
+ {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; BACKGROUND: #ffffff repeat-x; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: black; LINE-HEIGHT: 1.8; PADDING-TOP: 0px
+}
+SELECT {
+	FONT-SIZE: 12px
+}
+INPUT {
+	FONT-SIZE: 12px
+}
+TEXTAREA {
+	FONT-SIZE: 12px
+}
+TEXTAREA {
+	LINE-HEIGHT: 1.8
+}
+H1 {
+	MARGIN-TOP: 0px
+}
+H2 {
+	MARGIN-TOP: 0px
+}
+H3 {
+	MARGIN-TOP: 0px
+}
+H1 {
+	FONT-SIZE: 1.6em
+}
+H2 {
+	FONT-SIZE: 1.4em
+}
+H3 {
+	FONT-SIZE: 1em
+}
+UL {
+	LIST-STYLE-TYPE: square
+}
+NL {
+	LIST-STYLE-TYPE: square
+}
+A {
+	COLOR: #202fff; TEXT-DECORATION: none
+}
+A:hover {
+	BORDER-BOTTOM-WIDTH: 0px
+}
+A IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+IMG.left {
+	FLOAT: left; MARGIN: 0px 20px 0px 0px
+}
+IMG.right {
+	FLOAT: right; MARGIN: 0px 0px 0px 20px
+}
+PRE {
+	FONT: 12px/1.8 "Crizin Code", "GulimChe", sans-serif; OVERFLOW: auto
+}
+TT {
+	FONT: 12px/1.8 "Crizin Code", "GulimChe", sans-serif; OVERFLOW: auto
+}
+.pre {
+	FONT: 12px/1.8 "Crizin Code", "GulimChe", sans-serif; OVERFLOW: auto
+}
+PRE {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; MARGIN: 5px 0px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #eee
+}
+.pre {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; MARGIN: 5px 0px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #eee
+}
+#bodyWrap {
+	
+}
+#header {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; MARGIN: 0px auto; WIDTH: 802px; PADDING-TOP: 0px; HEIGHT: 88px
+}
+#header H1 {
+	FLOAT: left; MARGIN: 0px; COLOR: #ffffff
+}
+#header P {
+	FLOAT: left; MARGIN: 0px; COLOR: #ffffff
+}
+#header H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; FONT: bold 2em/1 Verdana, Tahoma, sans-serif; PADDING-TOP: 30px
+}
+#header P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; PADDING-TOP: 52px
+}
+#header A {
+	COLOR: #ffffff; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TEXT-DECORATION: none; BORDER-BOTTOM-STYLE: none
+}
+#header_menu {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; FLOAT: right; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; TEXT-ALIGN: right
+}
+#header_menu UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#header_menu NL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#header_menu LI {
+	DISPLAY: inline; PADDING-LEFT: 15px
+}
+#header_menu A {
+	FONT-WEIGHT: bold; COLOR: #ffffff; BORDER-TOP-STYLE: none; LINE-HEIGHT: 1; FONT-FAMILY: Verdana, Tahoma, sans-serif; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TEXT-DECORATION: none; BORDER-BOTTOM-STYLE: none
+}
+#main_menu {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; MARGIN: 0px auto; WIDTH: 802px; PADDING-TOP: 0px; HEIGHT: 32px
+}
+#main_menu UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#main_menu NL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#main_menu LI {
+	DISPLAY: inline
+}
+#main_menu A {
+	PADDING-RIGHT: 18px; DISPLAY: block; PADDING-LEFT: 18px; FONT-WEIGHT: bold; FONT-SIZE: 12px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px 1px 0px 0px; CURSOR: pointer; COLOR: #ffffff; BORDER-TOP-STYLE: none; PADDING-TOP: 10px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 22px; TEXT-DECORATION: none; BORDER-BOTTOM-STYLE: none
+}
+#main_menu A:hover {
+	BACKGROUND: #202fff
+}
+#main_menu A:unknown {
+	BACKGROUND: #202fff
+}
+#main_menu A.on {
+	BACKGROUND: repeat-x; COLOR: #202fff
+}
+#main_menu A.on:hover {
+	BACKGROUND: repeat-x; COLOR: #202fff
+}
+#main_menu A.on:unknown {
+	BACKGROUND: repeat-x; COLOR: #202fff
+}
+#main_menu A.off {
+	BACKGROUND: #202fff; COLOR: #ffffff
+}
+#sub_menu {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; MARGIN: 0px auto; WIDTH: 802px; PADDING-TOP: 10px; HEIGHT: 32px
+}
+#sub_menu UL {
+	PADDING-RIGHT: 0px; DISPLAY: none; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#sub_menu NL {
+	PADDING-RIGHT: 0px; DISPLAY: none; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#sub_menu LI {
+	PADDING-RIGHT: 5px; DISPLAY: inline; PADDING-LEFT: 15px; BACKGROUND: no-repeat 5px 2px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#sub_menu A {
+	MARGIN: 0px 1px 0px 0px; TEXT-DECORATION: none
+}
+#sub_menu A:hover {
+	BORDER-BOTTOM: #202fff 1px solid; TEXT-DECORATION: none
+}
+#sub_menu A:unknown {
+	BORDER-BOTTOM: #202fff 1px solid; TEXT-DECORATION: none
+}
+#sub_menu .on A {
+	BORDER-BOTTOM: #202fff 1px solid; TEXT-DECORATION: none
+}
+#searchForm {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#searchForm INPUT.goto {
+	BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #aaa 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 12px; IME-MODE: active; PADDING-BOTTOM: 3px; BORDER-LEFT: #aaa 1px solid; WIDTH: 160px! important; LINE-HEIGHT: 1.3; PADDING-TOP: 3px; BORDER-BOTTOM: #aaa 1px solid; HEIGHT: 15px! important
+}
+INPUT.search_button {
+	VERTICAL-ALIGN: -3px
+}
+IMG.search_button {
+	VERTICAL-ALIGN: -3px
+}
+UNKNOWN {
+	VERTICAL-ALIGN: -3px
+}
+UNKNOWN {
+	VERTICAL-ALIGN: -3px
+}
+INPUT.search_button_submit {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; WIDTH: 32px; HEIGHT: 22px; BACKGROUND-COLOR: #ddd; BORDER-RIGHT-WIDTH: 1px
+}
+#it_search_form {
+	RIGHT: 15px; POSITION: absolute; TOP: 50px
+}
+#it_search_form .input {
+	BORDER-RIGHT: #bc4032 1px solid; BORDER-TOP: #bc4032 1px solid; FONT-SIZE: 0.9em; BORDER-LEFT: #bc4032 1px solid; WIDTH: 120px; COLOR: #888888; BORDER-BOTTOM: #bc4032 1px solid; HEIGHT: 17px
+}
+#it_search_form .submit_button {
+	VISIBILITY: hidden; WIDTH: 1px; HEIGHT: 1px
+}
+#isSearch {
+	RIGHT: 15px; WIDTH: 214px; POSITION: absolute; TOP: 48px; TEXT-ALIGN: right
+}
+#isSearch .searchOrder {
+	DISPLAY: none
+}
+#isSearch .checked {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 5px; BACKGROUND: none; LEFT: 0px; PADDING-BOTTOM: 0px; FONT: 11px "µ¸¿ò", Dotum, "±¼¸²", Gulim, AppleGothic, Sans-serif; WIDTH: 64px; COLOR: #ffffff; PADDING-TOP: 5px; POSITION: absolute; TOP: 0px; HEIGHT: 14px; TEXT-ALIGN: left
+}
+UNKNOWN {
+	TOP: 1px
+}
+#isSearch UL {
+	BORDER-RIGHT: #919898 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #919898 1px solid; DISPLAY: none; PADDING-LEFT: 0px; BACKGROUND: #536c6d; LEFT: 0px; PADDING-BOTTOM: 3px; BORDER-LEFT: #919898 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #919898 1px solid; POSITION: absolute; TOP: 18px; TEXT-ALIGN: left
+}
+#isSearch UL LI {
+	WIDTH: 67px; LIST-STYLE-TYPE: none; HEIGHT: 18px
+}
+#isSearch UL LI INPUT {
+	DISPLAY: none
+}
+#isSearch UL LI LABEL {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 4px; PADDING-BOTTOM: 0px; FONT: 11px "µ¸¿ò", Dotum, "±¼¸²", Gulim, AppleGothic, Sans-serif; WIDTH: 63px; COLOR: #ffffff; PADDING-TOP: 4px; HEIGHT: 15px
+}
+#isSearch UL LI LABEL.on {
+	BACKGROUND: #455a5b
+}
+#isSearch UL LI LABEL:hover {
+	BACKGROUND: #455a5b
+}
+#isSearch UL LI LABEL:unknown {
+	BACKGROUND: #455a5b
+}
+#isSearch NL {
+	BORDER-RIGHT: #919898 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #919898 1px solid; DISPLAY: none; PADDING-LEFT: 0px; BACKGROUND: #536c6d; LEFT: 0px; PADDING-BOTTOM: 3px; BORDER-LEFT: #919898 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #919898 1px solid; POSITION: absolute; TOP: 18px; TEXT-ALIGN: left
+}
+#isSearch NL LI {
+	WIDTH: 67px; LIST-STYLE-TYPE: none; HEIGHT: 18px
+}
+#isSearch NL LI INPUT {
+	DISPLAY: none
+}
+#isSearch NL LI LABEL {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 4px; PADDING-BOTTOM: 0px; FONT: 11px "µ¸¿ò", Dotum, "±¼¸²", Gulim, AppleGothic, Sans-serif; WIDTH: 63px; COLOR: #ffffff; PADDING-TOP: 4px; HEIGHT: 15px
+}
+#isSearch NL LI LABEL.on {
+	BACKGROUND: #455a5b
+}
+#isSearch NL LI LABEL:hover {
+	BACKGROUND: #455a5b
+}
+#isSearch NL LI LABEL:unknown {
+	BACKGROUND: #455a5b
+}
+#isSearch .inputText {
+	BORDER-RIGHT: #8e8e8d 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #8e8e8d 1px solid; PADDING-LEFT: 3px; LEFT: 1px; PADDING-BOTTOM: 1px; VERTICAL-ALIGN: middle; BORDER-LEFT: #8e8e8d 1px solid; WIDTH: 94px; COLOR: #ffffff; PADDING-TOP: 3px; BORDER-BOTTOM: #8e8e8d 1px solid; POSITION: relative; TOP: -1px; HEIGHT: 13px; BACKGROUND-COLOR: #857c79
+}
+#isSearch .inputText:hover {
+	BORDER-RIGHT: #b0b0af 1px solid; BORDER-TOP: #b0b0af 1px solid; BORDER-LEFT: #b0b0af 1px solid; BORDER-BOTTOM: #b0b0af 1px solid; BACKGROUND-COLOR: #a9a4a3
+}
+#isSearch .inputText:unknown {
+	BORDER-RIGHT: #b0b0af 1px solid; BORDER-TOP: #b0b0af 1px solid; BORDER-LEFT: #b0b0af 1px solid; BORDER-BOTTOM: #b0b0af 1px solid; BACKGROUND-COLOR: #a9a4a3
+}
+UNKNOWN {
+	POSITION: relative; TOP: -1px
+}
+#isSearch .submit {
+	VERTICAL-ALIGN: middle; POSITION: relative; TOP: -1px
+}
+UNKNOWN {
+	POSITION: relative; TOP: -1px
+}
+#contentBody {
+	CLEAR: both; MARGIN: 0px auto; OVERFLOW: hidden; WIDTH: 802px
+}
+#columnLeft {
+	FLOAT: left; MARGIN: 0px auto; OVERFLOW: hidden; WIDTH: 802px
+}
+#contentMain {
+	MARGIN-BOTTOM: 10px
+}
+#visualArea {
+	BACKGROUND: #f5f5f5; LEFT: -15px; MARGIN-BOTTOM: 2.5em; WIDTH: 770px; MARGIN-RIGHT: -15px; POSITION: relative; HEIGHT: 200px
+}
+#content {
+	OVERFLOW: hidden; WIDTH: 100%
+}
+#lnb {
+	PADDING-RIGHT: 5px; BORDER-TOP: #dddddd 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 4px; WIDTH: 190px; PADDING-TOP: 4px
+}
+#lnb LI {
+	PADDING-BOTTOM: 4px; LIST-STYLE-TYPE: none
+}
+#lnb LI A {
+	BORDER-RIGHT: #e8e8e8 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #e8e8e8 1px solid; DISPLAY: block; PADDING-LEFT: 13px; Z-INDEX: 99; BACKGROUND: none; PADDING-BOTTOM: 6px; BORDER-LEFT: #e8e8e8 1px solid; WIDTH: 170px; COLOR: #3e3e3e; PADDING-TOP: 6px; BORDER-BOTTOM: #e8e8e8 1px solid; POSITION: relative; TEXT-DECORATION: none
+}
+#lnb LI A:hover {
+	BORDER-RIGHT: #de4332 1px solid; BORDER-TOP: #de4332 1px solid; BACKGROUND: #de4332; BORDER-LEFT: #de4332 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #de4332 1px solid
+}
+#lnb LI A:unknown {
+	BORDER-RIGHT: #de4332 1px solid; BORDER-TOP: #de4332 1px solid; BACKGROUND: #de4332; BORDER-LEFT: #de4332 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #de4332 1px solid
+}
+#lnb LI.on A {
+	BORDER-RIGHT: #de4332 1px solid; BORDER-TOP: #de4332 1px solid; BACKGROUND: #de4332; BORDER-LEFT: #de4332 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #de4332 1px solid
+}
+#lnb LI.on A:hover {
+	FONT-WEIGHT: bold
+}
+#lnb LI.on A:unknown {
+	FONT-WEIGHT: bold
+}
+#lnb LI UL {
+	PADDING-RIGHT: 3px; BORDER-TOP: #ffffff 1px solid; DISPLAY: none; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; OVERFLOW: hidden; WIDTH: 184px; PADDING-TOP: 0px; POSITION: relative
+}
+#lnb LI.on UL {
+	DISPLAY: block
+}
+#lnb LI UL LI {
+	PADDING-RIGHT: 0px; BORDER-TOP: #f2f2f2 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; POSITION: relative; TOP: -1px
+}
+#lnb LI UL LI A {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 10px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 6px; WIDTH: 169px; COLOR: #818181! important; BORDER-TOP-STYLE: none! important; PADDING-TOP: 6px; BORDER-RIGHT-STYLE: none! important; BORDER-LEFT-STYLE: none! important; BORDER-BOTTOM-STYLE: none! important
+}
+#lnb LI UL LI A:hover {
+	FONT-WEIGHT: normal! important; COLOR: #de4332! important
+}
+#lnb LI UL LI A:unknown {
+	FONT-WEIGHT: normal! important; COLOR: #de4332! important
+}
+#lnb LI.on UL LI.on A {
+	FONT-WEIGHT: bold! important; BACKGROUND: no-repeat 175px center; COLOR: #ff1a00! important
+}
+#lnb LI NL {
+	PADDING-RIGHT: 3px; BORDER-TOP: #ffffff 1px solid; DISPLAY: none; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; OVERFLOW: hidden; WIDTH: 184px; PADDING-TOP: 0px; POSITION: relative
+}
+#lnb LI.on NL {
+	DISPLAY: block
+}
+#lnb LI NL LI {
+	PADDING-RIGHT: 0px; BORDER-TOP: #f2f2f2 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; POSITION: relative; TOP: -1px
+}
+#lnb LI NL LI A {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 10px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 6px; WIDTH: 169px; COLOR: #818181! important; BORDER-TOP-STYLE: none! important; PADDING-TOP: 6px; BORDER-RIGHT-STYLE: none! important; BORDER-LEFT-STYLE: none! important; BORDER-BOTTOM-STYLE: none! important
+}
+#lnb LI NL LI A:hover {
+	FONT-WEIGHT: normal! important; COLOR: #de4332! important
+}
+#lnb LI NL LI A:unknown {
+	FONT-WEIGHT: normal! important; COLOR: #de4332! important
+}
+#lnb LI.on NL LI.on A {
+	FONT-WEIGHT: bold! important; BACKGROUND: no-repeat 175px center; COLOR: #ff1a00! important
+}
+#columnRight {
+	DISPLAY: none; FLOAT: right; WIDTH: 201px
+}
+#columnRight .mask {
+	CLEAR: both; DISPLAY: block; BACKGROUND: #ffffff; WIDTH: 201px; HEIGHT: 5px
+}
+#footer {
+	PADDING-RIGHT: 0px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 20px; MARGIN: 10px auto 30px; WIDTH: 802px; PADDING-TOP: 20px; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #fff
+}
+#footer A {
+	COLOR: black
+}
+#footer .copyright {
+	FONT-SIZE: 11px; MARGIN: 0px; FONT-FAMILY: Verdana, Tahoma, sans-serif; TEXT-ALIGN: center
+}
+#footer .bottom_menu {
+	MARGIN: 0px; TEXT-ALIGN: center
+}
+#footer .bottom_menu UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#footer .bottom_menu NL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#footer .bottom_menu LI {
+	DISPLAY: inline
+}
+#footer .bottom_menu A {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 6px; BORDER-TOP-STYLE: none; PADDING-TOP: 6px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#footer .bottom_menu A:hover {
+	COLOR: #cc3300; BACKGROUND-COLOR: #fff
+}
+#footer .bottom_hr {
+	BORDER-TOP-WIDTH: 0px; DISPLAY: block! important; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 2px auto; WIDTH: 70%; COLOR: #bbb; HEIGHT: 1px; BACKGROUND-COLOR: #bbb; BORDER-RIGHT-WIDTH: 0px
+}
+UNKNOWN {
+	MARGIN: 2px auto
+}
+#contentMain {
+	CLEAR: both; DISPLAY: block
+}
+#googleadsense_top {
+	CLEAR: both; BORDER-TOP: #ccc 1px solid; DISPLAY: block! important; MARGIN: 0px auto; WIDTH: 802px; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #fff
+}
+#googleadsense_middle {
+	CLEAR: both; BORDER-TOP: #ccc 1px solid; DISPLAY: block! important; MARGIN: 0px auto; WIDTH: 802px; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #fff
+}
+#googleadsense_bottom {
+	CLEAR: both; BORDER-TOP: #ccc 1px solid; DISPLAY: block! important; MARGIN: 0px auto; WIDTH: 802px; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #fff
+}
+#google_adsense_top {
+	CLEAR: both; BORDER-TOP: #ccc 1px solid; DISPLAY: block! important; MARGIN: 0px auto; WIDTH: 802px; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #fff
+}
+#google_adsense_middle {
+	CLEAR: both; BORDER-TOP: #ccc 1px solid; DISPLAY: block! important; MARGIN: 0px auto; WIDTH: 802px; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #fff
+}
+#google_adsense_bottom {
+	CLEAR: both; BORDER-TOP: #ccc 1px solid; DISPLAY: block! important; MARGIN: 0px auto; WIDTH: 802px; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #fff
+}
+#googleadsense_right {
+	BORDER-TOP: #ccc 1px solid; LEFT: 490px; MARGIN: 10px; WIDTH: 290px; BORDER-BOTTOM: #ccc 1px solid; POSITION: absolute; TOP: 40px; BACKGROUND-COLOR: #fff
+}
+#google_adsense_right {
+	BORDER-TOP: #ccc 1px solid; LEFT: 490px; MARGIN: 10px; WIDTH: 290px; BORDER-BOTTOM: #ccc 1px solid; POSITION: absolute; TOP: 40px; BACKGROUND-COLOR: #fff
+}
+#googleadsense_top {
+	MARGIN-BOTTOM: 10px
+}
+#google_adsense_top {
+	MARGIN-BOTTOM: 10px
+}
+#googleadsense_middle {
+	MARGIN: 20px auto
+}
+#google_adsense_middle {
+	MARGIN: 20px auto
+}
+#googleadsense_bottom {
+	MARGIN-TOP: 20px
+}
+#google_adsense_bottom {
+	MARGIN-TOP: 20px
+}
+.google_adsense {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 20px; PADDING-TOP: 20px; FONT-FAMILY: Verdana, sans-serif; TEXT-ALIGN: center
+}
+.google_adsense A {
+	FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+#sitemap {
+	TABLE-LAYOUT: fixed; FONT-SIZE: 12px; OVERFLOW: hidden; WIDTH: 802px
+}
+#sitemap TD {
+	PADDING-RIGHT: 10px; PADDING-BOTTOM: 20px; OVERFLOW: hidden
+}
+#sitemap UL {
+	MARGIN-LEFT: 22px; LIST-STYLE-TYPE: square
+}
+#sitemap NL {
+	MARGIN-LEFT: 3px; LIST-STYLE-TYPE: square
+}
+#sitemap A {
+	COLOR: #000080; TEXT-DECORATION: none
+}
+#sitemap A:hover {
+	COLOR: #cc3300; TEXT-DECORATION: underline
+}
+.title_box {
+	PADDING-RIGHT: 5px; DISPLAY: block; PADDING-LEFT: 5px; BACKGROUND: none; PADDING-BOTTOM: 8px; MARGIN: 10px 0px; OVERFLOW: hidden; WIDTH: 100%; PADDING-TOP: 5px
+}
+.title_box .title {
+	FONT-WEIGHT: bold; FLOAT: left
+}
+.title_box .title {
+	FONT-WEIGHT: bold; FLOAT: left
+}
+.tool-tip {
+	Z-INDEX: 13000; WIDTH: 139px; COLOR: #fff
+}
+.tool-title {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-SIZE: 12px; BACKGROUND: none; PADDING-BOTTOM: 4px; MARGIN: 0px; COLOR: #9fd4ff; PADDING-TOP: 8px
+}
+.tool-empty-title {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-SIZE: 12px; BACKGROUND: none; PADDING-BOTTOM: 4px; MARGIN: 0px; COLOR: #9fd4ff; PADDING-TOP: 1px
+}
+.tool-text {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-SIZE: 12px; BACKGROUND: none; PADDING-BOTTOM: 8px; PADDING-TOP: 4px
+}
+#ajax_update {
+	DISPLAY: none
+}
+.user_level {
+	FONT: 8px/1 Verdana, Tahoma, sans-serif; MARGIN-LEFT: 1px; VERTICAL-ALIGN: 3px
+}
+.user_name {
+	BACKGROUND-POSITION: 0px 0px; PADDING-LEFT: 32px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; BACKGROUND-REPEAT: no-repeat
+}
+UNKNOWN {
+	BACKGROUND-POSITION: 0px 4px
+}
+.boardList .user_name {
+	PADDING-LEFT: 0px; PADDING-BOTTOM: 0px
+}
+.boardList .user_level {
+	DISPLAY: none
+}
+.xe_content .user_name {
+	PADDING-LEFT: 0px; PADDING-BOTTOM: 0px
+}
+.xe_content .user_level {
+	DISPLAY: none
+}
+.memberInfoTable A {
+	COLOR: #000080! important; BACKGROUND-COLOR: #ffffdd
+}
+.xe_content A {
+	COLOR: #000080! important; BACKGROUND-COLOR: #ffffdd
+}
+.memberInfoTable A:hover {
+	COLOR: #c30! important; BORDER-BOTTOM: #c30 1px solid
+}
+.xe_content A:hover {
+	COLOR: #c30! important; BORDER-BOTTOM: #c30 1px solid
+}
+.memberInfoTable A.button {
+	BORDER-BOTTOM-STYLE: none! important
+}
+.xe_content A.button {
+	BORDER-BOTTOM-STYLE: none! important
+}
+A.external_link {
+	PADDING-RIGHT: 14px; BACKGROUND: none; MARGIN-RIGHT: 2px
+}
+.rss_feed {
+	MARGIN-TOP: 5px; TEXT-ALIGN: center
+}
+.rss_feed UL {
+	LIST-STYLE-TYPE: none
+}
+.rss_feed UL LI {
+	DISPLAY: inline; MARGIN: 0px 5px; LIST-STYLE-TYPE: none
+}
+.rss_feed UL LI A IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.rss_feed NL {
+	LIST-STYLE-TYPE: none
+}
+.rss_feed NL LI {
+	DISPLAY: inline; MARGIN: 0px 5px; LIST-STYLE-TYPE: none
+}
+.rss_feed NL LI A IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.xe_content .iePngFix {
+	BEHAVIOR: none
+}
+.xe_content UL {
+	MARGIN: 1em 3em; LIST-STYLE-TYPE: disc! important
+}
+.xe_content NL {
+	MARGIN: 1em 3em; LIST-STYLE-TYPE: disc! important
+}
+TABLE.poll_table TD.content DIV.title {
+	MARGIN-TOP: 0.8em
+}
+TABLE.poll_table TD.content TABLE.item_bar_table {
+	MARGIN-TOP: 4px! important
+}
+UL.board_top_contents {
+	CLEAR: both; BORDER-RIGHT: #f0f2f0 1px solid; PADDING-RIGHT: 1.2em; LIST-STYLE: none none outside; BORDER-TOP: #f0f2f0 1px solid; DISPLAY: block; PADDING-LEFT: 1.2em; BACKGROUND: #f6f9f6; PADDING-BOTTOM: 1.2em; MARGIN: 8px 0pt; BORDER-LEFT: #f0f2f0 1px solid; WIDTH: 95%; PADDING-TOP: 1.2em; BORDER-BOTTOM: #f0f2f0 1px solid
+}
+UL.board_top_contents LI {
+	PADDING-LEFT: 13px; BACKGROUND: none 0px 5px; MARGIN-LEFT: 15px; TEXT-INDENT: 0pt
+}
+NL.board_top_contents {
+	CLEAR: both; BORDER-RIGHT: #f0f2f0 1px solid; PADDING-RIGHT: 1.2em; LIST-STYLE: none none outside; BORDER-TOP: #f0f2f0 1px solid; DISPLAY: block; PADDING-LEFT: 1.2em; BACKGROUND: #f6f9f6; PADDING-BOTTOM: 1.2em; MARGIN: 8px 0pt; BORDER-LEFT: #f0f2f0 1px solid; WIDTH: 95%; PADDING-TOP: 1.2em; BORDER-BOTTOM: #f0f2f0 1px solid
+}
+NL.board_top_contents LI {
+	PADDING-LEFT: 13px; BACKGROUND: none 0px 5px; MARGIN-LEFT: 15px; TEXT-INDENT: 0pt
+}
+DIV.editor {
+	MARGIN-TOP: 10px! important
+}
+.document_popup_menu A {
+	BORDER-TOP-WIDTH: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BORDER-BOTTOM-WIDTH: 0px! important; COLOR: black! important; BORDER-RIGHT-WIDTH: 0px! important; TEXT-DECORATION: none! important
+}
+.comment_popup_menu A {
+	BORDER-TOP-WIDTH: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BORDER-BOTTOM-WIDTH: 0px! important; COLOR: black! important; BORDER-RIGHT-WIDTH: 0px! important; TEXT-DECORATION: none! important
+}
+#inline_popup {
+	PADDING-RIGHT: 10px; DISPLAY: none; PADDING-LEFT: 10px; Z-INDEX: 9999; LEFT: 20px; PADDING-BOTTOM: 10px; WIDTH: 400px; PADDING-TOP: 10px; POSITION: absolute; TOP: 20px; BACKGROUND-COLOR: #ffffff
+}
+#inline_popup .popup_box {
+	BORDER-RIGHT: #ca1d05 10px solid; PADDING-RIGHT: 20px; BORDER-TOP: #ca1d05 10px solid; PADDING-LEFT: 20px; Z-INDEX: 9998; PADDING-BOTTOM: 20px; BORDER-LEFT: #ca1d05 10px solid; PADDING-TOP: 20px; BORDER-BOTTOM: #ca1d05 10px solid; BACKGROUND-COLOR: #ffffff
+}
+#inline_popup .popup_contents {
+	Z-INDEX: 9997; LINE-HEIGHT: 1.8
+}
+#inline_popup .popup_menu {
+	MARGIN-TOP: 20px; Z-INDEX: 9997; TEXT-ALIGN: center
+}
+#contact {
+	MARGIN: 6px auto; TEXT-ALIGN: center
+}
+SPAN.agent {
+	PADDING-LEFT: 2px; FONT-SIZE: 10px! important; VERTICAL-ALIGN: 1px; COLOR: #bf0000; FONT-FAMILY: Tahoma, sans-serif! important
+}
+UNKNOWN {
+	
+}
+BODY {
+	BACKGROUND-IMAGE: none
+}
+#main_menu A:hover {
+	BACKGROUND: #3a3
+}
+#main_menu A:unknown {
+	BACKGROUND: #3a3
+}
+#main_menu A.on {
+	COLOR: #008000
+}
+#main_menu A.on:hover {
+	COLOR: #008000
+}
+#main_menu A.on:unknown {
+	COLOR: #008000
+}
+#main_menu A.off {
+	BACKGROUND: #008000
+}
+#sub_menu LI {
+	BACKGROUND-IMAGE: none
+}
+#sub_menu A {
+	COLOR: #008000
+}
+#sub_menu A:hover {
+	BORDER-BOTTOM: #008000 1px solid
+}
+#sub_menu A:unknown {
+	BORDER-BOTTOM: #008000 1px solid
+}
+#sub_menu .on A {
+	BORDER-BOTTOM: #008000 1px solid
+}
+BODY {
+	FONT-FAMILY: "Tahoma", "±¼¸²", "Gulim", sans-serif
+}
+SELECT {
+	FONT-FAMILY: "±¼¸²", "Gulim", sans-serif
+}
+INPUT {
+	FONT-FAMILY: "±¼¸²", "Gulim", sans-serif
+}
+TEXTAREA {
+	FONT-FAMILY: "±¼¸²", "Gulim", sans-serif
+}
