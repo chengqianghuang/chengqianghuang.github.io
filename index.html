@@ -4,6 +4,11 @@
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script>
 
+//Handles Window Resize
+$(window).on("resize", function () {
+  resizeCanvas();
+});
+
 var width = 1000,
     height = 1000;
 
