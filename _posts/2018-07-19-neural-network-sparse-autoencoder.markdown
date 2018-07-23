@@ -14,6 +14,9 @@ Before introducing Neural Networks, the first thing to ask is **why do we need N
 * the activation function may be not differentiable, which hinders the training of the Neural Networks;
 * the use of a single neuron limits the benefit of automatic feature engineering, i.e, non-linear transformation of data.
 
+These above benefits are critical in implementing Neural Networks for solving various problems. To maintain these benefits, typically people would recommend use a large number of layers to enhance the capability of Neural Networks in function approximation, which leads to Deep Neural Networks.
+
+
 
 
 <br>
