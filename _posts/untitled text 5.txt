@@ -1,5 +1,0 @@
-blog 1: back propagation的详细解释和思考 (sparse autoencoder)
-
-blog 2: attention机制的实现，以及self-attention
-
-blog 3:
