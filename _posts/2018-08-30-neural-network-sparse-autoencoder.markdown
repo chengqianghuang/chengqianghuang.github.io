@@ -30,7 +30,8 @@ The first thing to ask is **why do we need Neural Networks?** Basically, a neura
 These above benefits are critical in implementing Neural Networks for solving various problems. To maintain these benefits, typically people would recommend use a large number of layers to enhance the capability of Neural Networks in function approximation, which leads to Deep Neural Networks.
 <br>
 
-### References:
+References:
+======
 [[1] Andrew Ng, Sparse Autoencoder, CS294A Lecture Notes, 2011.][c1]
 
 [[2] L. Ruff, N. Görnitz, L Deecke, S. A. Siddiqui, R. A. Vandermeulen, A. Binder, E. Muller, M. Kloft, Deep One-Class Classification, ICML, 2018.][c2]
