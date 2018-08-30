@@ -1,21 +1,24 @@
 ---
 layout: post
-title:  "Neural Network - Back Propagation"
-date:   2018-07-19 14:22:14 +00:00
+title:  "Neural Network: Basics and Back Propagation"
+date:   2018-08-29 14:22:14 +00:00
 categories: neural network
 ---
 This post is to help myself remember and understand Neural Networks better, especially the back propagation algorithm. I followed the content in [1] to clear all the concepts. If you are reading this, I expect that you have some knowledge about Machine Learning and Optimisation and I strongly recommend the following two videos and please refer to [1] for the basics. (I found that it is unwise to build a new wheel if there is a good one already available! But to enhance the understanding, we would try coding all the details.)
 <br>
 
-### Neural Network: Basics
+Neural Network: Basics
+======
 <iframe width="700" height="400" src="https://www.youtube.com/embed/aircAruvnKk?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 
-### Neural Network: Back Propagation
+Neural Network: Back Propagation
+======
 <iframe width="700" height="400" src="https://www.youtube.com/embed/IHZwWFHWa-w?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 
-### Some Questions:
+Some Questions:
+======
 The first thing to ask is **why do we need Neural Networks?** Basically, a neural network is a function approximator that takes certain inputs and gives us outputs. Although there are currently various ways of using a neural network, the main purpose of designing a neural network is to identify a function that could fit the observed data well. Compare to other models, Neural Networks are very general and are said to be capable of approximating all kinds of functions.
 
 **Are Neural Networks really that great in approximating functions?** Generally, it is not bad. One could check [Google Neural Network Playground][playground] to see its performance in small datasets. However, for a specific problem, the utilisation of a neural network may not be the best choice. A simplest example would be designing a XOR function, in which case you don't want to use neural network because you could implement XOR with a conditional function. Nevertheless, a neural network can definitely approximate XOR function regardless of the verbose neural network architecture and training process.
