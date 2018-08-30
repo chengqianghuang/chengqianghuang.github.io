@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Neural Network: Basics and Back Propagation"
+title:  "Neural Network - Basics and Back Propagation"
 date:   2018-08-29 14:22:14 +00:00
 categories: neural network
 ---

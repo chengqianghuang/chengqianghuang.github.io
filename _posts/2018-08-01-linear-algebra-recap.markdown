@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Essence of Linear Algebra: My Understanding"
+title:  "Essence of Linear Algebra - My Understanding"
 date:   2018-08-01 10:15:14 +00:00
 categories: math basics
 ---
 Linear algebra is very fundamental and critical in machine learning and data mining research.
-[Essence of Linear Algebra][essence] gives a very good description of the basic concepts in linear algebra.
-Here in this article, I added some comments and thoughts concerning some of the concepts described in the videos.
-This is mainly for helping myself understanding and memorising the details better.
+[Essence of Linear Algebra][essence] gives a very good description of the basic concepts.
+Here in this article, I added some comments and thoughts.
+This is mainly for helping myself understand and memorise the details better.
 <br>
 
 Linear Transformation of a Coordinate System:
