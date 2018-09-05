@@ -16,6 +16,7 @@ Neural Network: Back Propagation
 ======
 <iframe width="700" height="400" src="https://www.youtube.com/embed/IHZwWFHWa-w?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
+It is highly recommended that you could watch the whole series of the [neural network essence][essence] to get a solid idea about how neural networks work.
 
 Some Questions:
 ======
@@ -39,3 +40,4 @@ References:
 [c1]: https://web.stanford.edu/class/cs294a/sparseAutoencoder_2011new.pdf
 [c2]: http://ml.informatik.uni-kl.de/publications/2018/deep-svdd.pdf
 [playground]: https://playground.tensorflow.org/
+[essence]: https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
