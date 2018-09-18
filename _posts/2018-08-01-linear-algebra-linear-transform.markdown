@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Essence of Linear Algebra - My Understanding"
+title:  "Essence of Linear Algebra - Linear Transformation"
 date:   2018-08-01 10:15:14 +00:00
 categories: math basics
 ---
