@@ -30,7 +30,7 @@ Then here comes the question. When <a href="https://www.codecogs.com/eqnedit.php
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\partial&space;x_t}{\partial&space;x_k}&space;=&space;\prod_{k&space;<&space;i&space;\leq&space;t}&space;\frac{\partial&space;x_i}{\partial&space;x_{i-1}}&space;\leq&space;\eta^{t-k}&space;<&space;1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;x_t}{\partial&space;x_k}&space;=&space;\prod_{k&space;<&space;i&space;\leq&space;t}&space;\frac{\partial&space;x_i}{\partial&space;x_{i-1}}&space;\leq&space;\eta^{t-k}&space;<&space;1" title="\frac{\partial x_t}{\partial x_k} = \prod_{k < i \leq t} \frac{\partial x_i}{\partial x_{i-1}} \leq \eta^{t-k} < 1" /></a>.
 
-Similarly, if the value of the derivative is always greater than 1 or bigger, it is running the risk of gradient explosion, i.e., **the gradient increases exponentially**.
+Similarly, if the value of the derivative is always greater than 1 or bigger, it is running the risk of gradient explosion, i.e., **the gradient increases exponentially**. Note that we are using one-dimensional case here to illustrate the problem. Please refer to [1] for multi-dimensional case.
 
 
 2.Why LSTM Works?
