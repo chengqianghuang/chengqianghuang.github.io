@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Neural Network - Sparse Autoencoder?"
-date:   2018-10-01 20:13:24 +00:00
+date:   2019-10-01 20:13:24 +00:00
 categories: neural network
 ---
 This post is to help myself remember and understand Neural Networks better, especially the back propagation algorithm. I followed the content in [1] to clear all the concepts. If you are reading this, I expect that you have some knowledge about Machine Learning and Optimisation and I strongly recommend the following two videos and please refer to [1] for the basics. (I found that it is unwise to build a new wheel if there is a good one already available! But to enhance the understanding, we would try coding all the details.)
